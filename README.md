@@ -1,4 +1,4 @@
-LOCAL LOW LATENCY SPEECH TO SPEECH
+LOCAL LOW LATENCY SPEECH TO SPEECH (https://www.youtube.com/watch?v=0k8wUfU7n4Q)
 
 1. git clone https://github.com/All-About-AI-YouTube/low-latency-sts.git
 2. cd low-latency-sts
