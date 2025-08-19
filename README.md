@@ -24,4 +24,4 @@ LOCAL LOW LATENCY SPEECH TO SPEECH (https://www.youtube.com/watch?v=0k8wUfU7n4Q)
      14.2- Activate enviroment: "conda activate openvoice"
      14.3- Run the script: "python talk.py"
 
-[Note] => If ffmpeg error, just install it within the enviroment: "conda install ffmpeg"
+[Note] → If ffmpeg error, just install it within the enviroment: "conda install ffmpeg"
