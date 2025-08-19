@@ -15,5 +15,13 @@ LOCAL LOW LATENCY SPEECH TO SPEECH (https://www.youtube.com/watch?v=0k8wUfU7n4Q)
 8. Download Bloke Dolphin Mistral 7B V2 (https://huggingface.co/TheBloke/dolphin-2.2.1-mistral-7B-AWQ) in LM Studio
 9. Setup Local Server in LM Studio (https://youtu.be/IgcBuXFE6QE)
 10. Start Server
-11. Get a reference voice in PATH / PATHS (mp3)
+11. Get a reference voice in PATH / PATHS (mp3) in files talk.py & voice69.py ( ./folder/audio.mp3 or C:/folder/audio.mp3 )
+
 12. RUN: 'python talk.py' or 'python voice69.py'
+13. Usage: Stop Recording → ctrl+c
+14. Future usage:
+     14.1- Go to project folder
+     14.2- Activate enviroment: "conda activate openvoice"
+     14.3- Run the script: "python talk.py"
+
+[Note] => If ffmpeg error, just install it within the enviroment: "conda install ffmpeg"
